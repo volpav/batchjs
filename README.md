@@ -1,7 +1,7 @@
 Batch.js
 ========
 
-Batch.js is a tiny JavaScript library that enables sending batch requests to ASP.NET Web API using jQuery.
+Batch.js is a tiny JavaScript library that enables sending batch requests to ASP.NET Web API using jQuery. More information on this library (as well as on OData in general) can be found here: http://volgarev.me/blog/re-discovering-microsoft-web-api.
 
 ## What is request batching ##
 
